@@ -1,5 +1,5 @@
 # What is this for?  
-This is a script to help remove background from your images, resize them to 512x512px (at least one side being 512px and the other at most 512px)
+This is a script to help remove background from your images, and resize them to 512x512px (at least one side being 512px and the other at most 512px). AKA aligning the format with Telegram stickers format requirements.
 
 How to use
 - Open the folder path in terminal
