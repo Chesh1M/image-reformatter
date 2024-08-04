@@ -1,4 +1,4 @@
-What is this for?
+# What is this for?  
 This is a script to help remove background from your images, resize them to 512x512px (at least one side being 512px and the other at most 512px)
 
 How to use
